@@ -13,6 +13,3 @@ function returnsAnAnonymousFunction() {
         console.log("I am an anonymous function");
     };
 }
-
-
-SSSS
